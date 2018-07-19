@@ -10,8 +10,8 @@
 # 📝 Writing docs:
 # 🔀 Merging branches:
 # 🔥 Removing code or files:
-# 🔊 Adding logs:
-# 🔇 Removing logs:
+# 🔊 Adding logs
+# 🔇 Removing logs
 # ➕ Adding a dependency:
 # ➖ Removing a dependency:
 # ⬆️  Upgrading dependencies:
@@ -54,5 +54,5 @@
 # 🍏 Fixing something on iOS:
 # 🤡 Mocking things:
 # 🥚 Adding an easter egg:
-# 🙈 Adding or updating a :gitignore file
+# 🙈 Adding or updating a .gitignore file
 # 📸 Adding or updating snapshots
