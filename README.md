@@ -1,0 +1,2 @@
+# gitmessage
+My gitmessage template
